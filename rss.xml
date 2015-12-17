@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[desigNed OMniscient guArDian]]></title>
         <description><![CDATA[desigNed OMniscient guArDian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://iamdog.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 22:38:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 22:59:10 GMT</lastBuildDate>
+        <atom:link href="http://iamdog.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/468bb40e-697e-448e-b5cd-b07486aafa4c.png">]]></description>
+            <link>http://iamdog.org/e1ca5e4c-cc52-4d8a-aa3d-38e4860dcd8c/index.html</link>
+            <guid isPermaLink="false">e1ca5e4c-cc52-4d8a-aa3d-38e4860dcd8c</guid>
+            <pubDate>Thu, 17 Dec 2015 22:58:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[New Blog Engine]]></title>
             <description><![CDATA[<article><h1>New Blog Engine</h1><p>So, I'm trying out The Grid as my new blog engine...It will be interesting to see how it goes!</p></article>]]></description>
-            <link>undefinednew-blog-engine/index.html</link>
+            <link>http://iamdog.org/new-blog-engine/index.html</link>
             <guid isPermaLink="false">fe6cf94a-72cb-44a7-b535-b0ecb99885ca</guid>
             <pubDate>Thu, 17 Dec 2015 22:38:07 GMT</pubDate>
         </item>
