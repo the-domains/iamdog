@@ -1,6 +1,6 @@
 name: iamdog
 favicon: null
-layout_spectrum: 0.910473
+layout_spectrum: 1
 typography_spectrum: 0
 title: desigNed OMniscient guArDian
 cta:
@@ -22,8 +22,8 @@ color:
     - '#e7692c'
     - '#98c9cd'
     - '#f2ebff'
-  brandStrength: 0.697635
-  lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
