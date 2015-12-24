@@ -4,7 +4,7 @@
         <description><![CDATA[desigNed OMniscient guArDian]]></description>
         <link>https://thegrid.ai/iamdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 18:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Dec 2015 18:15:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iamdog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New Blog Engine]]></title>
@@ -19,13 +19,6 @@
             <link>http://cnet.co/1RIIUTG</link>
             <guid isPermaLink="false">5cd4b0d9-f851-4cb2-bae2-3779e5627164</guid>
             <pubDate>Thu, 24 Dec 2015 18:04:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Kraken]]></title>
-            <description><![CDATA[<article><h1>The Kraken</h1><p>by Niela Rey</p></article>]]></description>
-            <link>https://thegrid.ai/iamdog/the-kraken/index.html</link>
-            <guid isPermaLink="false">c1460ec8-832a-4180-95b7-a4b0d1a2533d</guid>
-            <pubDate>Thu, 24 Dec 2015 17:56:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
