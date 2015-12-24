@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[iamdog]]></title>
-        <description><![CDATA[iamdog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[desigNed OMniscient guArDian]]></title>
+        <description><![CDATA[desigNed OMniscient guArDian]]></description>
+        <link>https://thegrid.ai/iamdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Dec 2015 17:57:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Dec 2015 18:04:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/iamdog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Christmas present to the world: A rare holiday full moon - CNET]]></title>
+            <description><![CDATA[<article><h1>Christmas present to the world: A rare holiday full moon - CNET</h1><p>It should be easier than usual to spot Santa Claus making his magical journey from the North Pole on Christmas Eve, thanks to the first full moon to be seen on the holiday since 1977. Even better, you can watch for St. Nick in the live video feed below, courtesy of the Slooh online observatory.</p><img src="http://cnet4.cbsistatic.com/hub/i/r/2015/12/24/747474e4-5395-4fe4-8ee8-694ee9675d2b/thumbnail/670x503/3365d973b4a77ac42c1a21ce714f9cdc/christmas2015fullmoon.jpg"></article>]]></description>
+            <link>http://cnet.co/1RIIUTG</link>
+            <guid isPermaLink="false">5cd4b0d9-f851-4cb2-bae2-3779e5627164</guid>
+            <pubDate>Thu, 24 Dec 2015 18:04:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Kraken]]></title>
             <description><![CDATA[<article><h1>The Kraken</h1><p>by Niela Rey</p></article>]]></description>
-            <link>undefinedthe-kraken/index.html</link>
+            <link>https://thegrid.ai/iamdog/the-kraken/index.html</link>
             <guid isPermaLink="false">c1460ec8-832a-4180-95b7-a4b0d1a2533d</guid>
             <pubDate>Thu, 24 Dec 2015 17:56:58 GMT</pubDate>
         </item>
