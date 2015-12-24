@@ -1,5 +1,20 @@
+name: iamdog
+favicon: null
+layout_spectrum: 0.910473
+typography_spectrum: 0
+title: desigNed OMniscient guArDian
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
   google: UA-45802757-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -9,11 +24,6 @@ color:
     - '#F8D868'
   brandStrength: 0.697635
   lightness: 0
-  rhythmicContrast: 0
   saturation: 0.5
-cta: {}
-layout_spectrum: 0.910473
-name: iamdog
-opengraph: {}
+  rhythmicContrast: 0
 purpose: []
-typography_spectrum: 0
